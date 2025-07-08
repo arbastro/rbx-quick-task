@@ -107,7 +107,6 @@ There’s no reciprocity or “pay it forward” requirement, even if you substa
 
 4. You can't use this module to create a competitive game or a game that competes with Roblox.
 5. You can't use this module to create a game that is meant to steal or copy the ideas of this module.
-6. You can't use this module to create a game that is meant to be a free-model-noob-copy of this module.
 
 ## Credits:
 @orangebird3 (me) / @arbastro
